@@ -1,6 +1,6 @@
 module example
 
-go 1.25.1
+go 1.24
 
 require (
 	github.com/dustin/go-broadcast v0.0.0-20211018055107-71439988bd91
